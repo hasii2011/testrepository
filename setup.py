@@ -28,8 +28,8 @@ setup(
     install_requires=[
         'wxPython==4.2.0',
         'hasiicommon~=0.0.7',
-        'pyutmodel~=1.4.0',
-        'ogl~=0.70.20',
-        'untanglepyut~=0.6.40',
+        'pyutmodel~=1.3.4',
+        'ogl~=0.70.0',
+        'untanglepyut~=0.6.30',
     ],
 )
