@@ -1,3 +1,3 @@
-# Test Repository for versionoverlord & gh2md
+# Test Repository for versionoverlord, PyGitIssue2Todoist (GitHubAdapter) & gh2md
 
 
