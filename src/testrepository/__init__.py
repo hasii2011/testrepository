@@ -1,0 +1,1 @@
+from testrepository._version import __version__
